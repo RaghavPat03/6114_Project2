@@ -1,0 +1,20 @@
+13 18 U
+S A 7
+S B 2
+S C 3
+A B 3
+A D 4
+B D 4
+B H 1
+C L 2
+D F 5
+F H 3
+H G 2
+H E 2
+G E 2
+E K 5
+L I 4
+I K 4
+I J 6
+J K 4
+S
